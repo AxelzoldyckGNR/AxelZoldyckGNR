@@ -1,12 +1,9 @@
-Sou desenvolvedor Frontend <br><br>
-Fundador da @hksys.dev
+
 
 
 ---
 
-## ⚡ Tech Stack
 
-HTML · CSS · JavaScript · Python
 
 
 <!--
@@ -16,20 +13,15 @@ HTML · CSS · JavaScript · Python
 -->
 ---
 
-## 🖥 Projetos
 
-<a href="https://atelierpianovox.com">Atelier PianoVox</a>            <p>
-<a href="carbonari-lake.vercel.app">Carbonari</a>                    <p>
-<a href="https://hksys.netlify.app/">HKSYS</a>
 
 ---
 
 ## 📫 Contato
 
-Linkedin: https://www.linkedin.com/in/hector-saiki-8a788626a <br><br>
-Email: saikihector@gmail.com
+Linkedin: <br><br>
+Email: 
 
 ---
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF:0D1117,100&height=200&section=footer">
